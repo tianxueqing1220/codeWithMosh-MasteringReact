@@ -47,3 +47,8 @@ npm i
 ```bash
 npm start
 ```
+
+
+#### Admin user: 
+- username: test2@gmail.com
+- pass: Pa$$word5
