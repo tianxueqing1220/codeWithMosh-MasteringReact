@@ -4,7 +4,7 @@
 
     - In any folder, i just run at project root, run `$ mongod`.
     - Download mongoDB Compass, which is the client application to connect to a MongoDB server.
-    For Detailed Info, refer to chapter [Calling Backen Service - 18. Installing MongoDB on Mac"](https://codewithmosh.com/courses/357787/lectures/5867618)
+    For Detailed Info, refer to chapter [Calling Backen Service 18](https://codewithmosh.com/courses/357787/lectures/5867618)
 
 # In backend folder
 
