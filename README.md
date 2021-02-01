@@ -1,5 +1,7 @@
 # codeWithMosh-MasteringReact
 
+# In MongoDB Compass,
+
 # In backend folder
 
     run "node index.js" to start backend server
