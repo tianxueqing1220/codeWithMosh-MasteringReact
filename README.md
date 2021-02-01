@@ -2,7 +2,9 @@
 
 1. In any folder, i just run at project root,
 
-   `mongod`
+```bash
+mongod
+```
 
 2. Download mongoDB Compass, which is the client application to connect to a MongoDB server.
 
@@ -10,7 +12,11 @@ For Detailed Info, refer to chapter [Calling Backen Service - 18. Installing Mon
 
 ## In backend folder
 
-1. `npm i`
+1. Install dependency.
+
+```bash
+npm i
+```
 
 2. Seed our DB with some data.
 
@@ -30,7 +36,13 @@ For Detailed Info, refer to chapter [Calling Backen Service - 20. Setting Up the
 
 ## In frontend folder
 
-1. Start frontend server
+1. Install dependency.
+
+```bash
+npm i
+```
+
+2. Start frontend server.
 
 ```bash
 npm start
