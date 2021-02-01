@@ -1,18 +1,41 @@
-# codeWithMosh-MasteringReact
+## Run MongoDB
 
-# Run MongoDB
+1. In any folder, i just run at project root,
 
-    1. In any folder, i just run at project root, run `$ mongod`.
-    2. Download mongoDB Compass, which is the client application to connect to a MongoDB server.
-    For Detailed Info, refer to chapter [Calling Backen Service - 18. Installing MongoDB on Mac](https://codewithmosh.com/courses/357787/lectures/5867618) [GitHub](http://github.com)
+`bash mongod`
 
-# In backend folder
+2. Download mongoDB Compass, which is the client application to connect to a MongoDB server.
 
-    1. run `$ npm i`
-    2. run `$ node seed.js` to seed our DB with some data. Now if you open up MongoDB Compass, you could see a DB named "vidly"
-    3. run `$ node index.js` to start backend web server.
-    For Detailed Info, refer to chapter [Calling Backen Service - 20. Setting Up the Node Backend](https://codewithmosh.com/courses/357787/lectures/5867613)
+For Detailed Info, refer to chapter [Calling Backen Service - 18. Installing MongoDB on Mac](https://codewithmosh.com/courses/357787/lectures/5867618)
 
-# In frontend folder
+## In backend folder
 
-    run `npm start` to start frontend
+1.
+
+```bash
+npm i
+```
+
+2. Seed our DB with some data.
+
+```bash
+node seed.js
+```
+
+Now if you open up MongoDB Compass, you could see a DB named "vidly"
+
+3. Start backend web server.
+
+```bash
+node index.js
+```
+
+For Detailed Info, refer to chapter [Calling Backen Service - 20. Setting Up the Node Backend](https://codewithmosh.com/courses/357787/lectures/5867613)
+
+## In frontend folder
+
+1. Start frontend server
+
+```bash
+npm start
+```
