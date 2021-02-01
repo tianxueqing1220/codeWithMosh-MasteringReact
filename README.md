@@ -49,6 +49,7 @@ npm start
 ```
 
 
-#### Admin user: 
+## Admin user:
+Only admin user can see the delete button to delete a movie
 - username: test2@gmail.com
 - pass: Pa$$word5
