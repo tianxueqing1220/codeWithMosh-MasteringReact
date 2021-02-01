@@ -1,9 +1,9 @@
 # codeWithMosh-MasteringReact
 
-# in backend folder
+# In backend folder
 
-## run "node index.js" to start backend server
+    run "node index.js" to start backend server
 
-# in frontend folder
+# In frontend folder
 
-## run "npm start" to start frontend
+    run "npm start" to start frontend
